@@ -1,5 +1,5 @@
 # Financial-Data-Analysis
-Description - This Python Program is to show Financial Analysis based visual representations. Here, we deal with analysis and visualization based on questionnaires from  Microsoft Excel dataset(Bank Personal loan modelling.xlsx).
+Description - This Python Program is to show Financial Analysis based visual representations. Here, we deal with analysis and visualization based on questionnaires from  Microsoft Excel dataset (Bank Personal loan modelling.xlsx).
 <br/>
 
 Prerequisite tools as follow:
