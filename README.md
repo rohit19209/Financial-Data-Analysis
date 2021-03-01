@@ -9,5 +9,6 @@ Prerequisite tools as follow:
 
 Steps to use the prerequisite tools:
 1) Download the latest Anaconda distribution from "www.anaconda.com" and select Jupyter Notebook as IDE for computions. Save to your local system.
-2) Download the dataset from "www.kaggle.com" in .xlsx format and save them in a folder on your local system.
-3) Open Jupyter notebook in your local system and select the python file (.ipynb) to see the analysis and Visualisations.
+2) Download the multiple datasets in .xlsx format and save them in a folder on your local system.
+3) Open Jupyter Notebook in your local system. And in the Jupyter Notebook environment, go to the folder where python files and dataset are saved.
+4) Click the python file (with extension .ipynp) to see the analysis and visualizations.
